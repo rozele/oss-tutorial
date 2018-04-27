@@ -17,11 +17,10 @@ While the specifics of "how to review code" is out of scope, it is useful to cal
 
 ## Reviewable
 
-*TODO:* Link
-*TODO:* screenshot from Reviewable
-*TODO:* screenshot of GitHub webhook
+Check it out at [https://reviewable.io].
+
+Reviewable has a number of useful features, such as viewing diffs since the last time you looked, with a lot of options to customize, such as the criteria for review completion and how the diffs are displayed.
 
 ## CodeFlow (Microsoft internal)
 
-*TODO:* Link to Chrome Plugin
-*TODO:* screenshot from CodeFlow
+![CodeFlowPlugin](../img/CodeFlowPlugin.png)

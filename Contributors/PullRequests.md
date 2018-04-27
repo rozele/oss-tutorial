@@ -29,10 +29,6 @@ RxJS has a great example for [`CONTRIBUTING.md`](https://github.com/ReactiveX/rx
 
 *TODO:* PR template image
 
-## Example pull request description
-
-*TODO:* PR description image
-
 ## Example commit messages
 
 **Bad:** Made some changes to the docs.
@@ -54,8 +50,6 @@ RxJS has a great example for [`CONTRIBUTING.md`](https://github.com/ReactiveX/rx
 ## Squashing commits
 
 Squashing commits is something you should do before submitting pull requests. Incremental commits are great for private workflows, and indeed recommended, but when it comes time to merge, put a bow on it by squashing. Depending on the project, the committer may squash your commits for you anyway, wouldn't you rather be in control?
-
-*TODO:* Image of PR with many commits
 
 ### How to squash
 

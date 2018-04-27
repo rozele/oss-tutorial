@@ -4,10 +4,16 @@ When all tests have passed and there is committer or maintainer sign off, a pull
 
 ## Ways to Merge on GitHub
 
-*TODO:* image of merge options on GitHub
+![../img/MergeOptions.png]
 
 * Merge
 * Squash and merge
 * Rebase and merge
 
-*TODO:* image of merge vs. rebase
+### Merge
+
+![Merge Image](../img/MergeImage.png)
+
+### Rebase
+
+![Merge Image](../img/RebaseImage.png)
